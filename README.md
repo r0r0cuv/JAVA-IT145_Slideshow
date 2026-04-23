@@ -32,7 +32,7 @@ The application allows users to navigate through slides using Previous and Next 
 ## ▶️ How to Run
 1. Open Eclipse
 2. Import the project
-3. Make sure images are inside `/resources`
+3. Make sure images are inside `/images`
 4. Run `SlideShow.java`
 
 ---
